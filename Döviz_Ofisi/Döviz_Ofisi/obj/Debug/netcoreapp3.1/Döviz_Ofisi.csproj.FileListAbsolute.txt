@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\netcoreapp3.1\Döviz_Ofisi.exe
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\netcoreapp3.1\Döviz_Ofisi.deps.json
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\netcoreapp3.1\Döviz_Ofisi.runtimeconfig.json
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\netcoreapp3.1\Döviz_Ofisi.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\netcoreapp3.1\Döviz_Ofisi.dll
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\bin\Debug\netcoreapp3.1\Döviz_Ofisi.pdb
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.Form1.resources
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.Properties.Resources.resources
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.AssemblyInfo.cs
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.dll
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.pdb
+C:\Users\ACER\Desktop\c# PROJE\Döviz_Ofisi\Döviz_Ofisi\obj\Debug\netcoreapp3.1\Döviz_Ofisi.genruntimeconfig.cache
